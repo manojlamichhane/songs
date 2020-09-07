@@ -1,6 +1,7 @@
-    
+    [
         {"id":"009","title":"Bloom","Genre":"blue"},
         {"id":"006","title":"Morning Mr Magpie","Genre":"blue"},
         {"id":"003","title":"Little by Little","Genre":"blue"},
         {"id":"001","title":"Feral","Genre":"blue"},
         {"id":"004","title":"Lotus Flower","Genre":"blue"}
+    ]
