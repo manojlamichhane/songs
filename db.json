@@ -1,8 +1,8 @@
 [
     
-        {"title":"Bloom","length":"5:15"},
-        {"title":"Morning Mr Magpie","length":"4:41"},
-        {"title":"Little by Little","length":"4:27"},
-        {"title":"Feral","length":"3:13"},
-        {"title":"Lotus Flower","length":"5:01"}
+        {"title":"Bloom","Genre":"blue"},
+        {"title":"Morning Mr Magpie","Genre":"blue"},
+        {"title":"Little by Little","Genre":"blue"},
+        {"title":"Feral","Genre":"blue"},
+        {"title":"Lotus Flower","Genre":"blue"}
 ]
